@@ -1,0 +1,69 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"multiDiffEditor.experimental.enabled": false,
+		"workbench.cloudChanges.autoResume": "off",
+		"workbench.cloudChanges.continueOn": "off",
+		"workbench.commandPalette.experimental.enableNaturalLanguageSearch": false,
+		"workbench.list.openMode": "doubleClick",
+		"workbench.reduceMotion": "on",
+		"workbench.colorTheme": "Aura Dark",
+		"workbench.editor.decorations.colors": false,
+		"workbench.preferredDarkColorTheme": "Aura Dark",
+		"workbench.preferredHighContrastColorTheme": "Aura Dark",
+		"workbench.preferredHighContrastLightColorTheme": "Aura Dark",
+		"workbench.preferredLightColorTheme": "Aura Dark",
+		"workbench.iconTheme": "material-icon-theme",
+		"workbench.tree.expandMode": "doubleClick",
+		"workbench.tips.enabled": false,
+		"workbench.tree.enableStickyScroll": false,
+		"workbench.statusBar.visible": false,
+		"workbench.tree.renderIndentGuides": "none",
+		"breadcrumbs.enabled": false,
+		"breadcrumbs.filePath": "off",
+		"breadcrumbs.icons": false,
+		"workbench.editor.autoLockGroups": {
+			"terminalEditor": false,
+			"mainThreadWebview-simpleBrowser.view": false,
+			"mainThreadWebview-browserPreview": false
+		},
+		"workbench.editor.decorations.badges": false,
+		"workbench.editor.dragToOpenWindow": false,
+		"workbench.editor.enablePreview": false,
+		"workbench.editor.focusRecentEditorAfterClose": false,
+		"workbench.editor.historyBasedLanguageDetection": false,
+		"workbench.editor.languageDetectionHints": {
+			"untitledEditors": false,
+			"notebookEditors": false
+		},
+		"workbench.editor.mouseBackForwardToNavigate": false,
+		"workbench.settings.enableNaturalLanguageSearch": false,
+		"workbench.remoteIndicator.showExtensionRecommendations": false,
+		"problems.autoReveal": false,
+		"problems.decorations.enabled": false,
+		"comments.useRelativeTime": false,
+		"explorer.decorations.badges": false,
+		"outline.problems.badges": false,
+		"search.decorations.badges": false,
+		"testing.countBadge": "off",
+		"debug.console.collapseIdenticalLines": false,
+		"git.decorations.enabled": false,
+		"explorer.compactFolders": false,
+		"outline.icons": false,
+		"terminal.integrated.customGlyphs": false,
+		"terminal.integrated.gpuAcceleration": "off",
+		"notebook.compactView": false,
+		"notebook.consolidatedOutputButton": false,
+		"notebook.defaultFormatter": "vscode.php-language-features",
+		"inlineChat.accessibleDiffView": "off",
+		"notebook.globalToolbarShowLabel": "always",
+		"workbench.commandPalette.experimental.askChatLocation": "quickChat",
+		"window.autoDetectColorScheme": true,
+		"window.closeWhenEmpty": true,
+		"window.commandCenter": false
+	}
+}
